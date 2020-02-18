@@ -12,7 +12,7 @@ const SectionItem = (props: props) => {
     display: "grid",
     placeItems: "center"
   };
-
+  
   const titleStyles: CSSProperties = {
     fontSize: "2.5rem"
   };
